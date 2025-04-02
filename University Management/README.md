@@ -47,7 +47,7 @@ UMS solves these problems **based on modern SQL principles**:
 2. **Clone the repository:**
 
 ```bash
-git clone https://github.com/username/university-management-system.git
+git clone https://github.com/hasanj0n/DataBaseModels.git
 cd university-management-system
 ```
 
