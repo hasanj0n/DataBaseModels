@@ -1,3 +1,4 @@
+
 # 🌟 University Management System (UMS)
 
 ## 📚 Project Overview
@@ -25,12 +26,7 @@ Many universities still rely on **outdated systems** or **manual documentation**
 
 UMS solves these problems **based on modern SQL principles**:
 
-✅ **Student and course database** — students can track their courses easily\
-✅ **Automated teacher workload management**\
-✅ **Grade and exam system** — results are entered in real-time\
-✅ **Library management** — books are tracked and their check-in/check-out is monitored\
-✅ **Payment system** — keeps track of students’ payments and teacher salaries\
-✅ **Class schedule and classroom management** — classrooms are optimally utilized
+✅ **Student and course database** — students can track their courses easily✅ **Automated teacher workload management**✅ **Grade and exam system** — results are entered in real-time✅ **Library management** — books are tracked and their check-in/check-out is monitored✅ **Payment system** — keeps track of students’ payments and teacher salaries✅ **Class schedule and classroom management** — classrooms are optimally utilized
 
 ---
 
@@ -54,4 +50,55 @@ UMS solves these problems **based on modern SQL principles**:
 git clone https://github.com/username/university-management-system.git
 cd university-management-system
 ```
+
+3. **Load the SQL file into MySQL:**
+
+```sql
+source university_db.sql;
+```
+
+---
+
+## 🔍 Database Structure
+
+The project contains the following core tables:
+
+- **Users** — Students, teachers, and administrators
+- **Courses** — Courses offered by the university
+- **Student_Courses** — Students’ course enrollments
+- **Teachers_Courses** — Teachers assigned to courses
+- **Grades** — Student grades
+- **Payments** — Students' payments
+- **Salaries** — Teacher salaries
+- **Books** — Books in the university library
+- **Library_Transactions** — Transactions for borrowing/returning books
+- **Classrooms** — University classrooms
+- **Schedule** — Class schedule
+- **Exams** — Exams
+- **Exam_Results** — Results of the exams
+- **Attendance** — Attendance records
+
+---
+
+## 👨‍🎓 Who Can Benefit?
+
+🌟 **University Administration** - Automate and manage student and university data📚 **Teachers** - Optimize workload and simplify grading👨‍🎓 **Students** - Track courses, grades, and payments💻 **Developers** - Learn how to work with MySQL databases
+
+---
+
+## ✨ Future Development
+
+🔄 **Add a REST API** - Connect the system to web applications📊 **Business Intelligence Dashboards** - Visualize data for decision-making🌟 **Mobile App** - Create a mobile interface for students and teachers🛠 **AI System** - Predict attendance and grades based on trends
+
+---
+
+## 👤 Author
+
+The project is developed by **[Hasan Omonov](https://github.com/hasanj0n)**.
+
+If you like this project, please ⭐ **star** it and **fork** it!
+
+🌟 **Contact Information:**
+
+- **Email:** [omonovhasan001@gmail.com](mailto\:omonovhasan001@gmail.com)
 
