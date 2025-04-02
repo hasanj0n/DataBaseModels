@@ -1,6 +1,8 @@
 ## 📂 Data & Queries
 This folder includes **sample data and SQL queries** for analysis.
 
+![rasm](https://github.com/hasanj0n/DataBaseModels/blob/main/Retail-Datawarehouse/datamodel.png)
+
 ### 📁 This Folder Contains:
 - **queries_for_database.sql** → SQL script for database setup and analysis
 - **customers.csv** → Sample customer data
