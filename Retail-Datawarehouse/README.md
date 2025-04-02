@@ -15,6 +15,8 @@ Retail businesses face challenges in **tracking revenue trends, identifying high
 - **DimEmployee**: Employee records for tracking sales performance.
 - **DimCategories**: Product category classification.
 
+![rasm](datamodel.png)
+
 ## 🛠 **Tech Stack & Tools**
 - **SQL:** MySQL / MySQLWorkBench for **data modeling, ETL, and analysis**
 
