@@ -72,6 +72,11 @@ Our project consists of the following key modules:
 
 📌 **payments** - Payments for premium subscriptions.
 
+Diagram: https://drawsql.app/teams/hasans-team-6/diagrams/telegram-clone
+
+![image](https://github.com/user-attachments/assets/53fecdf2-717c-4faf-9396-02290a6c2925)
+
+
 ---
 
 
