@@ -78,6 +78,12 @@ The project contains the following core tables:
 - **Exam_Results** — Results of the exams
 - **Attendance** — Attendance records
 
+**Diagram:**
+https://drawsql.app/teams/hasans-team-6/diagrams/universtiy-management
+
+![image](https://github.com/user-attachments/assets/7da79130-a8dd-481c-ba79-8af10161aac0)
+
+
 ---
 
 ## 👨‍🎓 Who Can Benefit?
