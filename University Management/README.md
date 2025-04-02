@@ -26,7 +26,12 @@ Many universities still rely on **outdated systems** or **manual documentation**
 
 UMS solves these problems **based on modern SQL principles**:
 
-✅ **Student and course database** — students can track their courses easily✅ **Automated teacher workload management**✅ **Grade and exam system** — results are entered in real-time✅ **Library management** — books are tracked and their check-in/check-out is monitored✅ **Payment system** — keeps track of students’ payments and teacher salaries✅ **Class schedule and classroom management** — classrooms are optimally utilized
+- ✅ **Student and course database** — students can track their courses easily
+- ✅ **Automated teacher workload management**
+- ✅ **Grade and exam system** — results are entered in real-time
+- ✅ **Library management** — books are tracked and their check-in/check-out is monitored
+- ✅ **Payment system** — keeps track of students’ payments and teacher salaries
+- ✅ **Class schedule and classroom management** — classrooms are optimally utilized
 
 ---
 
@@ -88,13 +93,18 @@ https://drawsql.app/teams/hasans-team-6/diagrams/universtiy-management
 
 ## 👨‍🎓 Who Can Benefit?
 
-🌟 **University Administration** - Automate and manage student and university data📚 **Teachers** - Optimize workload and simplify grading👨‍🎓 **Students** - Track courses, grades, and payments💻 **Developers** - Learn how to work with MySQL databases
+- 🌟 **University Administration** - Automate and manage student and university data
+- 📚 **Teachers** - Optimize workload and simplify grading
+- 👨‍🎓 **Students** - Track courses, grades, and payments
+- 💻 **Developers** - Learn how to work with MySQL databases
 
 ---
 
 ## ✨ Future Development
 
-🔄 **Add a REST API** - Connect the system to web applications📊 **Business Intelligence Dashboards** - Visualize data for decision-making🌟 **Mobile App** - Create a mobile interface for students and teachers🛠 **AI System** - Predict attendance and grades based on trends
+- 🔄 **Add a REST API** - Connect the system to web applications
+- 📊 **Business Intelligence Dashboards** - Visualize data for decision-making
+- 🌟 **Mobile App** - Create a mobile interface for students and teachers
 
 ---
 
