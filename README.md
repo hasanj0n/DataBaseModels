@@ -10,6 +10,4 @@ I’m **Hasan Omonov**, a data professional passionate about designing and query
 - **Techniques:** Data Modeling, Query Optimization, Business Intelligence, ETL  
 - **Key SQL Concepts:** CTEs, Window Functions, Aggregations, Joins, Indexing   
 
----
 
-Let's keep learning! 🚀
